@@ -1,0 +1,34 @@
+body {
+	background-color: DodgerBlue;
+}
+
+div {
+	background-color: orange;
+	border: 5px solid black;
+	width: 60%;
+	margin: 0 auto;
+}
+
+h1:first-child {
+	color: blue;
+	font-size: 60px;
+	font-family: "Arial";
+	text-align: center;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+p, ul {
+	margin-left: 20px;
+}
+
+div h1 {
+	color: yellow;
+}
+
+b {
+	color: red;
+}
