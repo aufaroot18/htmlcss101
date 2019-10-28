@@ -1,0 +1,57 @@
+body {
+	background-image: url("../img/intro.jpg");
+	background-size: cover;
+	color: #fff;
+}
+
+nav {
+	text-align: center;
+	margin-top: 3rem;
+}
+
+nav a {
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	margin: 0 1rem;
+}
+
+nav a:hover {
+	border-bottom: 2px solid white;
+}
+
+main {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+main h1 {
+	font-size: 4rem;
+}
+
+main h3 {
+	font-size: 2rem;
+}
+
+.social-media {
+	list-style-type: none;
+	text-align: center;
+}
+
+.social-media li {
+	display: inline-block;
+	margin: 0 1rem;
+}
+
+.social-media li a {
+	text-decoration: none;
+	font-size: 1.5rem;
+	color: white;
+}
+
+.social-media li a:hover {
+	color: blue;
+}
