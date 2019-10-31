@@ -25,10 +25,6 @@ p, ul {
 	margin-left: 20px;
 }
 
-div h1 {
-	color: yellow;
-}
-
-b {
-	color: red;
+button {
+	margin: 20px;
 }
